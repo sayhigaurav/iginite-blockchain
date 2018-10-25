@@ -27,6 +27,7 @@ NITK Ignite - Blockchain Talk
 **Applications**
 
 - [Blockchain in Transportation and Logistics](https://www.winnesota.com/blockchain)
+- [Mobility OPen Blockchain Initiative](https://www.dlt.mobi/)
 - [Multiple Use Cases](https://medium.com/fluree/blockchain-for-2018-and-beyond-a-growing-list-of-blockchain-use-cases-37db7c19fb99)
 
 **Blockchain Platforms and Frameworks**
