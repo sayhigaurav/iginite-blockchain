@@ -86,3 +86,4 @@ NITK Ignite - Blockchain Talk
 **Others**
 - https://github.com/mwittig/bc-links/blob/e4220dd8d4a7c12bfca750ccca6488124a4bd3c9/README.md
 - https://github.com/Overtorment/awesome-smart-contracts
+- https://www.blockchainsemantics.com/blog-posts/deep-tech/
