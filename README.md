@@ -63,7 +63,7 @@ NITK Ignite - Blockchain Talk
 	- [MultiChain - Getting Started](https://www.multichain.com/getting-started/)
 
 	**IOTA**
-	
+	- [IOTA - An Illustrated Introduction](https://blog.iota.org/the-tangle-an-illustrated-introduction-4d5eae6fe8d4)
 	- [IOTA - Introduction](https://www.iota.org/get-started/what-is-iota)
 	- [IOTA for developers](https://www.iota.org/get-started/for-developers)
 	- [IOTA - Tangle Whitepaper](https://assets.ctfassets.net/r1dr6vzfxhev/2t4uxvsIqk0EUau6g2sw0g/45eae33637ca92f85dd9f4a3a218e1ec/iota1_4_3.pdf)
